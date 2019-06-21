@@ -23,9 +23,6 @@
     "url": "http://github.com/ant-design/ant-design-mobile/issues"
   },
   "files": [
-    "dist",
-    "lib",
-    "es"
   ],
   "license": "MIT",
   "main": "lib/index.js",

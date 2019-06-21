@@ -21,8 +21,6 @@ node_modules/
 npm-debug.log
 nohup.out
 _site
-/dist
-lib
 elasticsearch-*
 config/base.yaml
 _data
@@ -35,6 +33,5 @@ yarn.lock
 npm-debug.log*
 !components/**/__tests__/*.js
 coverage
-/es/
 package-lock.json
 .cdnkey
