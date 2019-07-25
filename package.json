@@ -33,7 +33,7 @@
     "classnames": "^2.2.1",
     "normalize.css": "^7.0.0",
     "rc-checkbox": "~2.0.0",
-    "rc-collapse": "~1.9.1",
+    "rc-collapse": "~1.11.0",
     "rc-slider": "~8.2.0",
     "rc-swipeout": "~2.0.0",
     "rmc-calendar": "^1.0.0",
